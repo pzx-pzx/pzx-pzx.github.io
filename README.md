@@ -1,5 +1,3 @@
-# pzx-pzx.github.io
-pzx的个人主页
 
 <table border="0">
   <tr>
