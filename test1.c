@@ -224,3 +224,6 @@ void linksOper()
 	putList(head);
 
 }
+
+11111
+	1111111111
